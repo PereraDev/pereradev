@@ -54,15 +54,6 @@ Currently, I am a **Systems Development student at Etec Jaú** and a member of t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pereradev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereradev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Performance is not just about ads; it's about building secure and logical systems that generate real value through data."_
