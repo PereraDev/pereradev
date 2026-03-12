@@ -50,12 +50,4 @@ Currently studying **Systems Development at Etec Jaú** and specializing in Info
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PereraDev&show_icons=true&theme=radium&hide_border=true" alt="Alex's GitHub Stats" />
-</p>
-
----
-
 > _"Performance is not just about ads; it's about building secure and logical systems that generate real value through data."_
