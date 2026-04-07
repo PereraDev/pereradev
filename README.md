@@ -18,12 +18,12 @@ Currently pursuing a double-track academic path to master the intersection of **
 
 ## ⚙️ Featured Projects
 
-### 🏨 [Hotel Management System](<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://github.com/PereraDev/Etec-Projetos-e-Exercicios-Csharp/tree/main/Hospedagem_Para_Hotal)" target="_blank">)
+### 🏨 [Hotel Management System](<a href="https://github.com/PereraDev/Etec-Projetos-e-Exercicios-Csharp/tree/main/Hospedagem_Para_Hotal" target="_blank">REPOSITORY</a>)
 **Tech Stack:** C# | .NET | OOP
 * **The Challenge:** Developed a complex pricing engine to handle dynamic stay calculations and business rules.
 * **The Insight:** Sharpened my backend logic and financial precision.
 
-### 📋 [Web Interfaces & Systems](<a href="https://github.com/PereraDev/Etec-Projetos-e-Exercicios-Web" target="_blank">)
+### 📋 [Web Interfaces & Systems](<a href="https://github.com/PereraDev/Etec-Projetos-e-Exercicios-Web" target="_blank">REPOSITORY</a>)
 **Tech Stack:** HTML5 | CSS3 | Web Standards
 * **The Challenge:** Designing semantic, high-performance web interfaces for data visualization and user input validation.
 * **The Insight:** Focused on responsive design and clean frontend architecture.
@@ -59,7 +59,7 @@ Currently pursuing a double-track academic path to master the intersection of **
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+  <a href="www.linkedin.com/in/alex-pereira-8743a13b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pereraacompany@gmail.com">
