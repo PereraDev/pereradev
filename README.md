@@ -1,18 +1,18 @@
 # Hi 👋, I'm Alex Pereira
 
-### 🚀 Cybersecurity Undergraduate | Web & Systems Developer | Data Specialist
+### 🚀 Cybersecurity Undergraduate | Systems Developer | Data Specialist
 
-I bridge the gap between **3 years of international data analysis** and professional **software engineering**. My background in high-scale performance marketing provides a unique edge in logical problem-solving, which I now apply to building secure, full-stack web solutions and resilient systems.
+I bridge the gap between **3 years of international data analysis** and professional **software engineering**. My background in high-scale performance marketing provides a unique edge in logical problem-solving, which I now apply to building secure, full-stack systems and resilient infrastructure.
 
-Currently pursuing a double-track academic path to master the intersection of **Web Development**, **Backend Architecture**, and **Cybersecurity**.
+Currently pursuing a double-track academic path to master the intersection of **Systems Development (Web, Backend & Physical)** and **Cyber Defense**.
 
 ---
 
 ## 🎓 Education & Training
 
-- 🛡️ **B.S. in Cybersecurity** | Senac Jaú (2026 - 2028)
-- 💻 **Systems Analysis & Development** | Etec Jaú (2026 - 2027)
-- ⚙️ **Key Focus:** Web Systems, C# / .NET, SQL Databases, and Hardware/Software Integration.
+- 🛡️ **B.S. in Cyber Defense** | UniFECAF (May 2026 - Oct 2028)
+- 💻 **Systems Analysis & Development** | Etec Jaú (Feb 2026 - Jul 2027)
+- ⚙️ **Key Focus:** Cyber Defense, C# / .NET, SQL Databases, and Hardware/Software Integration.
 
 ---
 
