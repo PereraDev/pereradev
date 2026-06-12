@@ -14,22 +14,21 @@ Fazendo a transição para dev depois de 3 anos gerindo dados e campanhas de per
 ## Projetos
  
 ### Sistema de Gestão de Hospedagem
-`C#` `.NET` `Git`
+`C#` `.NET`
  
 Motor de cálculo de diárias com regras de meia-entrada, sazonalidade e feriados.
 O maior desafio foi estruturar a lógica de datas especiais sem deixar brechas nos cálculos financeiros.
  
-### Interfaces Web
-`HTML5` `CSS3` `Git`
- 
-Formulários semânticos e tabelas de folha de pagamento responsivas.
-Foco em organização de diretórios e documentação clara no README.
+### Fenix Baixaki
+`HTML5` `CSS3`
+
+Loja de jogos e serviços digitais com layout completo. Menu de navegação com dropdowns, sidebar de categorias com submenus, grid de produtos com links externos e footer.
  
 ---
  
 ## Stack atual
  
-`C#` `SQL` `HTML5` `CSS3` `Git` `GitHub` `Visual Studio` `VS Code`
+`C#` `SQL` `HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Visual Studio` `VS Code`
  
 ---
  
