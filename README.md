@@ -13,13 +13,13 @@ Fazendo a transição para dev depois de 3 anos gerindo dados e campanhas de per
  
 ## Projetos
  
-### [Sistema de Gestão de Hospedagem](https://github.com/PereraDev/Etec-Projetos-e-Exercicios-Csharp/tree/main/Hospedagem_Para_Hotal)
+### [Sistema de Gestão de Hospedagem]
 `C#` `.NET` `Git`
  
 Motor de cálculo de diárias com regras de meia-entrada, sazonalidade e feriados.
 O maior desafio foi estruturar a lógica de datas especiais sem deixar brechas nos cálculos financeiros.
  
-### [Interfaces Web](https://github.com/PereraDev/Etec-Projetos-e-Exercicios-Web)
+### [Interfaces Web]
 `HTML5` `CSS3` `Git`
  
 Formulários semânticos e tabelas de folha de pagamento responsivas.
